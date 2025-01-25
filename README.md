@@ -4,16 +4,16 @@ Cleanfolio is a portfolio template built with React. However, if you prefer a te
 
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
+[![Imgur](https://imgur.com/FwDMNEM.gif)](https://nazih.me/)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+[Live Demo](https://nazih.me/)
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rjshkhr/cleanfolio
+git clone https://github.com/spounka/cleanfolio
 cd cleanfolio
 ```
 
@@ -50,7 +50,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
+`"homepage": "https://nazih.me"`
 
 to `"homepage": "https://yourusername.github.io"`.
 

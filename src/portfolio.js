@@ -31,7 +31,14 @@ const projects = [
       'An online e-learning platform for algerian students with custom payment options and full dashboard management',
     stack: ['Django', 'TypeScript', 'React', 'ReactQuery', 'Redux'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://dzskills-frontend.onrender.com',
+  },
+  {
+    name: 'ClickR Photography',
+    description: `Quick landing page for a photography website. Design from Figma`,
+    stack: ['React', 'TailwindCSS', 'SaaS'],
+    sourceCode: 'https://github.com/spounka/clickr-landing-page',
+    livePreview: 'https://clickr-sr6x.onrender.com/',
   },
   {
     name: 'PainSuvival',
@@ -40,13 +47,6 @@ const projects = [
     stack: ['Unity', 'C#'],
     sourceCode: 'https://github.com/Spounka/ldjam-50/',
     livePreview: 'https://spounka.itch.io/pain-survival',
-  },
-  {
-    name: 'ClickR Photography',
-    description: `Quick landing page for a photography website. Design from Figma`,
-    stack: ['React', 'TailwindCSS'],
-    sourceCode: 'https://github.com/spounka/clickr-landing-page',
-    livePreview: 'https://clickr-sr6x.onrender.com/',
   },
 ]
 

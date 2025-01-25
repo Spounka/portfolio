@@ -22,8 +22,8 @@ const projects = [
     name: 'Medex',
     description: 'An Alibaba-like Quotations platform for medical equipment',
     stack: ['TypeScript', 'React', 'Django'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/Spounka/Medex-Frontend',
+    livePreview: 'https://medex-frontend.onrender.com/',
   },
   {
     name: 'DzSkills',

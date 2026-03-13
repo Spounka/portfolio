@@ -1,20 +1,12 @@
-# Cleanfolio
-
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
-
-## Preview
-
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://nazih.me/)
-
-[Live Demo](https://nazih.me/)
+# Portfolio
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/spounka/cleanfolio
-cd cleanfolio
+git clone https://github.com/spounka/portfolio
+cd portfolio
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
@@ -38,21 +30,17 @@ yarn
 yarn start
 ```
 
-### How to Use
-
-- Open the `public/index.html` file and replace:
-
-`<title>John Smith</title>` with `<title>Your Name</title>`.
-
-- Open the `src/portfolio.js` file and make the necessary changes.
-
 ### Deployment
 
 - In the `package.json` file, update:
 
-`"homepage": "https://nazih.me"`
+`"homepage": "https://portfolio.nazih.top"`
 
 to `"homepage": "https://yourusername.github.io"`.
+
+- In the CNAME file, update:
+
+`portfolio.nazih.top` with `your.domain.tld`
 
 - Push the changes to your repository.
 
